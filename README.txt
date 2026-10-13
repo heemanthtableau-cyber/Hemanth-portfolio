@@ -1,9 +1,9 @@
-HEMANTH KUMAR KATAKAM - LIGHT AZURE PORTFOLIO
+HEMANTH KUMAR KATAKAM - PORTFOLIO V2 FINAL
 
-1. Open index.html to preview.
-2. Replace the HK circle with your photo if desired.
-3. Add your resume and rename it to resume.pdf.
-4. Verify employment wording and all certification names/codes.
-5. Upload every file to GitHub Pages or Netlify.
+Updates in this version:
+- Dark mode is the default on first visit
+- Visitors can switch to light mode and the choice is remembered
+- Professional Journey expanded with moderate, resume-based responsibilities
+- Profile photo, certification cards, credential links, achievements and footer retained
 
-Files: index.html, styles.css, script.js
+Replace all previous GitHub Pages files with the files from this ZIP.
