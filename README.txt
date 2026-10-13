@@ -1,9 +1,11 @@
-HEMANTH KUMAR KATAKAM - PORTFOLIO V2 FINAL
+HEMANTH KUMAR KATAKAM - PORTFOLIO V2.1
 
-Updates in this version:
-- Dark mode is the default on first visit
-- Visitors can switch to light mode and the choice is remembered
-- Professional Journey expanded with moderate, resume-based responsibilities
-- Profile photo, certification cards, credential links, achievements and footer retained
+V2.1 includes:
+- Premium application/tool icon strip
+- Icons for Tableau, Power BI, Fabric, SAP BO, Cognos, Azure, Databricks, Python and REST APIs
+- Certification provider icons for Microsoft, Databricks, Dataiku and Claude
+- Icons for Resume, Projects, Contact, Email and LinkedIn actions
+- Dark theme remains the default
+- Expanded Professional Journey retained
 
-Replace all previous GitHub Pages files with the files from this ZIP.
+Replace all current GitHub Pages files with this package. Internet access is required to load selected provider SVG icons from the Simple Icons CDN.
